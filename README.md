@@ -12,7 +12,7 @@ After the game ends the final score of the player is displayed and he/she is ask
 This project has 2 files:
 
 Day-14_Higher Lower Game.py  
-  -This file contains the main logic of the game.
+- This file contains the main logic of the game.
   
 HL_game_data.py  
-  -This file contains the dictionary of the the instagram accounts consisting of account name, follower count, country and account description.
+- This file contains the dictionary of the the instagram accounts consisting of account name, follower count, country and account description.
